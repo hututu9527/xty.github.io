@@ -6,6 +6,12 @@
 
 在线演示：[http://139.196.87.48:9002/brilliant/](http://139.196.87.48:9002/brilliant/)
 
+
+#### 博客教程
+
+[IT人如何打造个性化的个人网站（在线简历）](https://www.cnblogs.com/xifengxiaoma/p/9814902.html)
+
+
 #### 软件架构
 软件架构说明
 
